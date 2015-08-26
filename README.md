@@ -1,2 +1,2 @@
 # PhotoGallery
-Sample project for displaying photos as a gallery with lazy loading.
+Sample project for displaying users photos as a gallery implemented with lazy loading.
